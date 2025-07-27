@@ -1,0 +1,8 @@
+{
+  "ctm_version": 1,
+  "type": "ctm",
+  "method": "ctm_compact",
+  "textures": {
+    "base": "enderio:block/fused_glass/ctm"
+  }
+}
