@@ -3,7 +3,6 @@
   "type": "ctm",
   "method": "ctm_compact",
   "textures": {
-    "base": "enderio:block/enlightened_clear_glass/ctm"
+    "base": "enderio:block/dark_fused_glass/ctm"
   }
 }
-
