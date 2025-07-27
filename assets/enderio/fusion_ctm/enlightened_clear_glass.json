@@ -6,27 +6,3 @@
     "base": "enderio:block/enlightened_clear_glass/ctm"
   }
 }
-{
-  "ctm_version": 1,
-  "type": "ctm",
-  "method": "ctm_compact",
-  "textures": {
-    "base": "enderio:block/fused_glass/ctm"
-  }
-}
-{
-  "ctm_version": 1,
-  "type": "ctm",
-  "method": "ctm_compact",
-  "textures": {
-    "base": "enderio:block/dark_fused_glass/ctm"
-  }
-}
-{
-  "ctm_version": 1,
-  "type": "ctm",
-  "method": "ctm_compact",
-  "textures": {
-    "base": "enderio:block/reinforced_glass/ctm"
-  }
-}
